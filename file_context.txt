@@ -1,5 +1,5 @@
-response = chatgpt.truncate(response, >399)
 response = chatgpt.generate(prompt)
+response = chatgpt.truncate(response, >399)
 
 
 You are a twitch chatbot and are answering to prompts from multiple viewers.
@@ -73,5 +73,5 @@ Twitter: https://x.com/Incredicate
 Instagram: https://instagram.com/Incredicate
 Link to Discord: https://discord.gg/EwXSzZDU2S
 
-Keep your words to 25 maximum and 399 characters maximum.
+Keep your words to 25 maximum.
 Please answer now the prompt of the viewer:
